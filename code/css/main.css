@@ -1,3 +1,7 @@
 @media all {}
 
-@media screen {}
+@media screen {
+
+    body {background-color: #EEE7DA;}
+
+}
